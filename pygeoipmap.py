@@ -97,7 +97,7 @@ def generate_map(output, lats=[], lons=[], wesn=None):
         m = Basemap(projection='cyl', resolution='l')
     m.bluemarble()
     x, y = m(lons, lats)
-    m.scatter(x, y, s=1, color='#00ff08', marker='o', alpha=0.3)
+    m.scatter(x, y, s=1, color='#ff00d4', marker='o', alpha=0.3)
     plt.savefig(output, dpi=1000, bbox_inches='tight')
 
 
