@@ -157,7 +157,7 @@ UniqOrganizations=( `for i in ${Organizations[@]}; do echo "$i"; done | sort -u`
 
 ##COUNTRIES
 # shellcheck disable=SC2028
-echo "Statistic Countries"
+echo "Statistic Countries" >> $STATOUT
 declare -A StatisticCountry
 for COUNTRY in ${UniqCountries[*]}; do
   # shellcheck disable=SC2031
@@ -206,7 +206,7 @@ echo "$FILE" >> "$NEW_MAP"
 
 ##CITIES
 # shellcheck disable=SC2028
-echo "Statistic Cities"
+echo "Statistic Cities" >> $STATOUT
 declare -A StatisticCity
 for CITY in ${UniqCities[*]}; do
   # shellcheck disable=SC2031
@@ -225,7 +225,7 @@ done
 
 ##ORGANIZATIONS
 # shellcheck disable=SC2028
-echo "Statistic Organizations"
+echo "Statistic Organizations" >> $STATOUT
 declare -A StatisticOrg
 for ORG in ${UniqOrganizations[*]}; do
   # shellcheck disable=SC2031
