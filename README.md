@@ -5,11 +5,17 @@ This location monitoring allows you to determine the decentralization of the blo
 ## 1. Set up your server or home PC. Install UBUNTU 20.04.
 
 ## 2. GET your $TOKEN to access IP CHECKER.
+
 1. GO to https://ipinfo.io/
+
 ![1](https://user-images.githubusercontent.com/36136421/214031958-66e3a34b-bea3-41ef-80e7-fb2c2c62742b.png)
+
 2. Sign up 
+
 ![2](https://user-images.githubusercontent.com/36136421/214031974-361c58cd-f11e-4734-b905-34b46b137c0a.png)
+
 3. Copy this TOKEN
+
 ![3](https://user-images.githubusercontent.com/36136421/214031979-55d97fdf-7e71-4b15-ab7e-c5f0eb1c961c.png)
 
 ## 3. Run service in TMUX
