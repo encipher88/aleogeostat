@@ -31,11 +31,12 @@ Input your token and press ENTER
 MAP result
 
 ![Screenshot_2](https://user-images.githubusercontent.com/36136421/214033748-7b60b44c-171d-4f80-aec7-d650da6e470a.png)
+
 ![Screenshot_6](https://user-images.githubusercontent.com/36136421/214036297-b347c3eb-1c83-450c-a327-8f3ced8ee966.png)
 
 Statistic result!
 
-[Screenshot_3](https://user-images.githubusercontent.com/36136421/214033816-46c8fcc7-ec0a-44c8-a813-bbe8ca60f3d2.png)
+![Screenshot_3](https://user-images.githubusercontent.com/36136421/214033816-46c8fcc7-ec0a-44c8-a813-bbe8ca60f3d2.png)
 
 PATH to FILES
 
