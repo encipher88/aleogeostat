@@ -25,13 +25,18 @@ cd $HOME && rm -rf aleogeostat && git clone https://github.com/encipher88/aleoge
 This script make all automatically 
 
 Input your token and press ENTER
+
 ![Screenshot_1](https://user-images.githubusercontent.com/36136421/214033681-7feb3921-35c4-4909-a212-f59e87dba18f.png)
 
 MAP result
+
 ![Screenshot_2](https://user-images.githubusercontent.com/36136421/214033748-7b60b44c-171d-4f80-aec7-d650da6e470a.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/36136421/214036297-b347c3eb-1c83-450c-a327-8f3ced8ee966.png)
 
 Statistic result!
+
 [Screenshot_3](https://user-images.githubusercontent.com/36136421/214033816-46c8fcc7-ec0a-44c8-a813-bbe8ca60f3d2.png)
+
 PATH to FILES
+
 ![Screenshot_5](https://user-images.githubusercontent.com/36136421/214036377-7ff838ed-df7c-4f10-af73-da3c2535bba3.png)
