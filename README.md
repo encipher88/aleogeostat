@@ -24,7 +24,7 @@ Install and run tmux
 ```bash
 cd $HOME && sudo apt update && sudo apt upgrade -y && sudo apt install tmux bash git curl -y && tmux
 ```
-RUN SCRIPT
+RUN SCRIPT - !ONLY FOR THE FIRST USE! for reuse and next result go to point 4
 ```bash
 cd $HOME && rm -rf aleogeostat && git clone https://github.com/encipher88/aleogeostat.git && cd aleogeostat && chmod +x ippars.sh && bash ippars.sh
 ```
@@ -47,3 +47,11 @@ Statistic result!
 PATH to FILES
 
 ![Screenshot_5](https://user-images.githubusercontent.com/36136421/214036377-7ff838ed-df7c-4f10-af73-da3c2535bba3.png)
+
+## 4. For reuse and next new result
+
+RUN SCRIPT
+
+```bash
+cd $HOME && cd aleogeostat && chmod +x ippars.sh && bash ippars.sh
+```
