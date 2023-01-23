@@ -10,6 +10,7 @@ This location monitoring allows you to determine the decentralization of the blo
 
 ![1](https://user-images.githubusercontent.com/36136421/214031958-66e3a34b-bea3-41ef-80e7-fb2c2c62742b.png)
 
+<img src="https://user-images.githubusercontent.com/36136421/214031958-66e3a34b-bea3-41ef-80e7-fb2c2c62742b.png" width="500px"/>
 2. Sign up 
 
 ![2](https://user-images.githubusercontent.com/36136421/214031974-361c58cd-f11e-4734-b905-34b46b137c0a.png)
